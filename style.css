@@ -1,0 +1,24 @@
+*{
+    background-color: lightgray;
+}
+
+h1{
+    color: blue; text-align: center;
+}
+
+h2{
+    color: green;
+}
+ul{
+    color: blueviolet;font-style: italic;
+}
+
+    p.copyright {
+        position: absolute;
+        width: 100%;
+        color: #fff;
+        line-height: 40px;
+        font-size: 0.7em;
+        text-align: center;
+        bottom:0;
+    }
